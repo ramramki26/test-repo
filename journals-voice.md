@@ -1,51 +1,73 @@
 # Journals: voice and context for content
 
-Every content skill in this repo reads this file first. Business facts come from Journals OS `company/context.md` (last reviewed 2026-11-11). Everything marked **DRAFT** comes from conversation with Ramanan and is still to be confirmed.
+Every content skill in this repo reads this file first. Business facts come from Journals OS `company/context.md` (last reviewed 2026-11-11) and Ramanan's corrections of 2026-11-18. Anything marked **TO CONFIRM** is still open.
 
-## Who is posting
+## 1. Who is posting
 - **Ramanan**, co-founder of **Journals** (getjournals.ai), an AI-native accounting firm in India: AI plus a human, CA-led service.
 - **The account:** a new Instagram account under Ramanan's own name. It's a personal brand that talks about Journals, not a company page. Journals goes in the bio and the link.
-- **Who must not be reached:** friends, family and past employers, for the next 1–3 months. Never reference his personal life, past employers or his existing personal account.
-- **Keep the cousin (the CA who leads delivery) out of Instagram content.** He's agreed to LinkedIn, starting around Nov 23, but not to Instagram.
+- **Where his authority comes from:** his co-founder is a CA who already runs an accounting firm, with clients from ₹5cr to ₹500cr revenue. Journals is that firm, rebuilt to deliver with AI: faster, more accurate, with more visibility. Ramanan is the business-side co-founder (never say "CEO"). He doesn't claim to be the finance expert. He understands founders' finances because he builds this alongside a CA who has handled these books for years. Bring this link in naturally, not in every post.
+- **The co-founder:** refer to him by role ("my co-founder, a CA who runs…"), not by name. **TO CONFIRM:** can he be named or shown on Instagram, and how many years has the firm been running?
+- **Who must not be reached:** friends, family and past employers, for the next 1–3 months. Never mention past employers or his existing personal account. Some personal life is fine when it builds trust; Ramanan decides that idea by idea.
 
-## Who we talk to
-- **Founders and owners of Indian online sellers:** brands on Amazon, Flipkart, Myntra, Meesho, quick commerce and their own D2C sites. Content stays broad ("online marketplace sellers") so it reaches more founders.
+## 2. Who we talk to
+- **Founders and owners of Indian online sellers:** brands on Amazon, Flipkart, Myntra, Meesho, quick commerce and their own D2C sites. Topics stay broad ("online marketplace sellers") for reach.
 - **Who we sell to:** D2C brands at ₹25–100cr revenue. The floor is ₹10cr or funded. The founder decides; finance teams tend to gatekeep.
-- **What they feel:** marketplace payouts that don't match orders, fees and returns they can't trace, books that are late or messy, not knowing true profit per channel or SKU, paying a lot for bookkeeping that's still slow.
+- **Attract the big sellers, not everyone:** Ramanan's time must go to sellers above the floor, not to the lakhs of small sellers below it. Every post should signal scale:
+  - Pick problems that only show up at size: several marketplaces at once, lakhs of orders a month, an accounts team of 3+ people, month-end close dragging into weeks, investor reporting, audits and due diligence.
+  - Hypothetical examples are set at ₹25–100cr scale ("a ₹40cr brand on four marketplaces…"), never "a small seller".
+  - The bio says who it's for (for example, brands doing ₹10cr+).
+  - Avoid beginner topics ("how to start selling on Amazon", "GST registration basics"). They pull in the wrong crowd.
+  - CTAs and DM replies qualify people (see section 4).
+- **What they feel (provisional, to be replaced with their own words from research):** marketplace payouts that don't match orders, fees and returns they can't trace, books that are late or messy, not knowing true profit per channel or SKU, depending on an accounts team that's hard to build and manage.
 
-## What we offer
-- A bookkeeping takeover that works alongside the brand's existing team, or a full outsourced finance function. Advisory and CFO work come later, as an upsell.
-- Perks: a live books dashboard and a WhatsApp bot.
-- **Entry offer: a free pilot**, for example reconciling one marketplace.
-- **The angle being tested:** "cut your bookkeeping cost by around half". Use it carefully and never as a guarantee.
+## 3. What we offer (for context; content doesn't pitch it)
+- **A bookkeeping takeover**, either working alongside the brand's existing team or replacing it.
+- **A full outsourced finance function.**
+- **A single-process engagement** (one process handled end to end; paid) as a smaller way in.
+- **A live books dashboard.**
+- Never mention in content: free pilots, the WhatsApp bot, advisory or CFO upsells, or "cut your bookkeeping cost in half". Content builds trust and authority. It doesn't sell.
 
-## What the content is for
-1. **Reach:** get in front of online-seller founders who don't know us yet.
-2. **Trust:** a founder who looks Ramanan up, for example after a cold call, should find useful, specific posts that prove he understands their finances.
-3. **Conversion:** a DM, a follow, or a request for the free pilot.
+**Benefits to lead with**, in roughly this order (research will sharpen them):
+- Books closed sooner.
+- Fewer human errors.
+- Reconciliation that recovers money they'd otherwise miss.
+- Real visibility: profit per channel, per SKU.
+- Time back for the founder and the senior people in the accounts team.
+- Headspace: growing the business instead of building, managing and running an accounts team.
+- Lower cost may come up, but never as the first or second benefit.
 
-## Formats and cadence
-- **4 posts a week from 2 ideas:** each idea becomes **1 carousel + 1 talking-head reel** (30–45s). Film the reels in batches.
+## 4. What the content is for
+1. **Reach:** get in front of online-seller founders who don't know us yet. Follows, shares and saves matter here.
+2. **Trust:** a founder who looks Ramanan up, for example after a cold call, finds specific, useful posts. They see that he understands their finances through a CA co-founder who has been doing this for years.
+3. **Conversion = a DM.** The DM is where Ramanan qualifies people and moves the right ones to a booked meeting. No booking links and no direct offers in content.
+- **CTAs:** "DM me" or a comment prompt, used sparingly. Only offer a conversation, or a resource once it actually exists.
+- **Protect Ramanan's time:** reply briefly to comments. In DMs, ask one quick qualifying question (revenue band, number of marketplaces) before investing time. Sellers below the floor get a short, friendly reply, not a long conversation.
+
+## 5. Formats and cadence
+- **Each idea becomes 1 carousel + 1 talking-head reel** (30–45s).
+- **Week 1: 4 posts** (2 ideas). Then increase towards **10 a week (1 idea a day, 5 days a week)** if production time allows. More posts means more data sooner.
+- **Talking-head setting:** Ramanan with the front camera, walking or sitting around his quiet, green residential area. This can become a signature ("my walk" posts). The work desk is a backup if it gets repetitive.
 - **Later:** screen recordings with voiceover; one AI motion-graphics reel as a test in month 2.
 - Review after 4 weeks (Dec 17).
 
-## Voice (DRAFT: Ramanan to confirm)
-- Founder to founder: plain, direct, practical. Sounds like someone who has seen a lot of messy marketplace books, not like a firm selling a service.
-- **Specific beats general:** one real-looking example ("a ₹40cr brand selling on Amazon and Flipkart…") beats a generic tip. Show the mechanism: where the money actually goes.
-- Explain any finance term the first time it comes up. Assume founders are smart but not accountants.
-- Use Indian context: ₹, crore/lakh, GST, TDS/TCS, Indian marketplaces.
+## 6. Voice
+- **Someone who gets founders**, talking founder to founder: plain, direct, practical. Not a firm selling a service, and not an accountant lecturing. The tone is "here's what I see; if this is you, talk to me".
+- He speaks with the confidence of someone who works alongside a CA every day. He never claims years of personal experience with messy books.
+- **Specific beats general:** use founders' own words (from research) and concrete scenarios at the right scale. Show the mechanism: where the money or time actually goes.
+- **Business problems, not finance jargon.** He's talking to founders, not accountants. If a term is unavoidable, explain it in plain words.
+- Use Indian context: ₹, crore/lakh, Indian marketplaces.
 - Confident, not hyped. AI is how we work, not the headline. No fear-mongering.
-- Language: English. (DRAFT: Hinglish? to confirm)
+- **Language: English only.**
 
-## Hard rules
+## 7. Hard rules
 - **Never invent numbers, case studies or client names.** Use clearly labelled hypothetical examples, or real figures Ramanan supplies.
-- Tax and compliance points are general information, never definitive advice. Flag anything that must be checked with the CA before posting.
-- No promises we can't keep: no guaranteed savings, no "we'll fix your books in a week".
-- CTAs offer only what really exists: the free pilot, a DM conversation, or a resource that has actually been made.
+- **Stay at the level of business problems.** No tax, compliance or accounting-rule specifics.
+- No promises we can't keep: no guaranteed outcomes or timelines.
+- No pitching: no pilots, prices, cost-halving claims or booking links.
 - Run every script and caption through the humanizer skill before it's final.
 
-## Open questions for Ramanan
-- How do you want to appear on camera? (You said you'd explain the approach.)
-- English only, or Hinglish too?
-- Instagram handle and display name?
-- Any real results or numbers from the existing firm we're allowed to use?
+## 8. Open questions
+- **Co-founder:** can he be named or shown, and how many years has the firm been running? (Section 1.)
+- **Instagram handle and display name:** to decide so they fit the brand.
+- **Founders' own words:** research into where D2C founders talk online, to replace the provisional pains in section 2.
+- **Real results or numbers we may use:** Ramanan will share when ready.
