@@ -6,7 +6,7 @@ Every content skill in this repo reads this file first. Business facts come from
 - **Ramanan**, co-founder of **Journals** (getjournals.ai), an AI-native accounting firm in India: AI plus a human, CA-led service.
 - **The account:** a new Instagram account under Ramanan's own name. It's a personal brand that talks about Journals, not a company page. Journals goes in the bio and the link.
 - **Where his authority comes from:** his co-founder is a CA who already runs an accounting firm, with clients from ₹5cr to ₹500cr revenue. Journals is that firm, rebuilt to deliver with AI: faster, more accurate, with more visibility. Ramanan is the business-side co-founder (never say "CEO"). He doesn't claim to be the finance expert. He understands founders' finances because he builds this alongside a CA who has handled these books for years. Bring this link in naturally, not in every post.
-- **The co-founder:** refer to him by role ("my co-founder, a CA who runs…"), not by name. **TO CONFIRM:** can he be named or shown on Instagram, and how many years has the firm been running?
+- **The co-founder:** refer to him by role only, never by name and never as a relative: "my co-founder, a CA who has run his own firm for 5+ years" (Ramanan, 2026-11-23). **TO CONFIRM:** can he be shown on camera?
 - **Who must not be reached:** friends, family and past employers, for the next 1–3 months. Never mention past employers or his existing personal account. Some personal life is fine when it builds trust; Ramanan decides that idea by idea.
 
 ## 2. Who we talk to
@@ -67,7 +67,7 @@ Every content skill in this repo reads this file first. Business facts come from
 - Run every script and caption through the humanizer skill before it's final.
 
 ## 8. Open questions
-- **Co-founder:** can he be named or shown, and how many years has the firm been running? (Section 1.)
+- **Co-founder:** can he be shown on camera? (Section 1. Naming is settled: role only.)
 - **Instagram handle and display name:** to decide so they fit the brand.
 - **Founders' own words:** research into where D2C founders talk online, to replace the provisional pains in section 2.
 - **Real results or numbers we may use:** Ramanan will share when ready.
