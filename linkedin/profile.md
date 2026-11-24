@@ -34,6 +34,8 @@ You see real margins by channel and SKU every day, so decisions run on this mont
 
 **Specialties:** Bookkeeping, Marketplace reconciliation, Quick commerce reconciliation, D2C accounting, Margins by channel and SKU, Outsourced finance
 
+- [ ] After creating: Edit page → Page info / Details → paste the Overview, add Specialties, Year founded 2026, Location Bengaluru.
+- [ ] Cover image: upload `linkedin/company-cover.png` (1128 × 191 ratio, made at 2x).
 - [ ] **Skip "invite connections"** when LinkedIn suggests it.
 - [ ] If asked to verify, use your getjournals.ai email.
 - [ ] Add your cofounders as page admins (optional).
@@ -80,6 +82,7 @@ Leave ZS, Henkel and Fidelity as they are.
 
 ## Step 4. Featured (+ Add section → Recommended → Add featured → Add a link)
 - Link: https://getjournals.ai
+- Thumbnail (if LinkedIn offers an upload): `linkedin/featured-thumbnail.png` (1200 × 627 ratio, made at 2x)
 - Title: Journals
 - Description: CA led, AI powered accounting for D2C, marketplace and omnichannel brands
 
