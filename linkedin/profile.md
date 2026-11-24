@@ -22,15 +22,15 @@ For Business (grid icon, top right) → Create a Company Page → Company.
 | Company type | Privately held |
 | Location | Bengaluru |
 | Logo | Square, at least 300 × 300 px |
-| Tagline | CA led, AI powered accounting for D2C brands doing ₹10cr+ |
+| Tagline | CA led, AI powered accounting for D2C, marketplace and omnichannel brands doing ₹10cr+ |
 
 Company size: count the three cofounders, plus the cofounder's firm's staff only if they now work as Journals.
 
 **Overview:**
 
-Journals is an accounting firm for D2C brands doing ₹10cr+ that sell on their own site, marketplaces and quick commerce. We're led by a CA who has run his own firm for 5+ years, with clients from ₹5cr to ₹500cr in revenue, and we run on AI.
+Journals is an accounting firm for D2C, marketplace and omnichannel brands doing ₹10cr+. We're led by a CA who has run his own firm for 5+ years, with clients from ₹5cr to ₹500cr in revenue. We run on AI and work in your own Tally or Zoho.
 
-You see real margins by channel and SKU every day, so decisions run on this month's numbers instead of last month's. Every marketplace and quick commerce payout gets checked against its orders, so money you're owed doesn't go missing. We work alongside your accounts team or take the books off your hands completely.
+You see real margins by channel and SKU every day, so decisions run on this month's numbers instead of last month's. Every marketplace and quick commerce payout gets checked against its orders, so money you're owed doesn't go missing. Hand us one process, have us close the books alongside your team, or make us your accounts team.
 
 **Specialties:** Bookkeeping, Marketplace reconciliation, Quick commerce reconciliation, D2C accounting, Margins by channel and SKU, Outsourced finance
 
@@ -51,9 +51,9 @@ CA led, AI powered accounting for D2C brands doing ₹10cr+ | Cofounder, Journal
 
 ### About
 
-I work with founders of D2C brands that sell on their own site, Amazon, Flipkart, Myntra and quick commerce. Somewhere past ₹10cr, the finance side starts to slip: marketplace payouts stop matching orders, month-end takes weeks to close, and nobody can say for sure what each channel or SKU actually makes.
+I work with founders of D2C, marketplace and omnichannel brands selling across their own site, Amazon, Flipkart, Myntra and quick commerce. Somewhere past ₹10cr, the finance side starts to slip: marketplace payouts stop matching orders, month-end takes weeks to close, and nobody can say for sure what each channel or SKU actually makes.
 
-Journals is an accounting firm built for this. My cofounder is a CA who has run his own firm for 5+ years, with clients from ₹5cr to ₹500cr in revenue, including a D2C brand doing over ₹100cr. We rebuilt that firm to run on AI. Usually, ad spend and stock get decided on last month's margins, or older. With Journals you see real margins by channel and SKU every day, so you decide on what's happening while the month is still running. Every marketplace and quick commerce payout gets checked against its orders, so money you're owed doesn't go missing. We can work alongside your accounts team or take the books off your hands completely.
+Journals is an accounting firm built for this. My cofounder is a CA who has run his own firm for 5+ years, with clients from ₹5cr to ₹500cr in revenue, including a D2C brand doing over ₹100cr. We rebuilt that firm to run on AI, working in your own Tally or Zoho. Usually, ad spend and stock get decided on last month's margins, or older. With Journals you see real margins by channel and SKU every day, so you decide on what's happening while the month is still running. Every marketplace and quick commerce payout gets checked against its orders, so money you're owed doesn't go missing. You can hand us one process, have us close the books alongside your team, or make us your accounts team.
 
 I run the business side. Before Journals I worked in consulting and in B2B sales, two jobs that run on the same numbers founders do: what's selling, what it costs, and where to spend next.
 
@@ -74,19 +74,19 @@ Right now I'm talking to D2C founders about where their accounting hurts. If tha
 
 **Description:**
 
-Journals is an accounting firm for D2C brands doing ₹10cr+ that sell on their own site, marketplaces and quick commerce. Led by a CA and run on AI: real margins by channel and SKU every day, and every marketplace and quick commerce payout checked against its orders. I run the business side.
+Journals is an accounting firm for D2C, marketplace and omnichannel brands doing ₹10cr+. Led by a CA and run on AI, in the brand's own Tally or Zoho: real margins by channel and SKU every day, and every marketplace and quick commerce payout checked against its orders. Brands hand us one process, have us close the books alongside their team, or make us their accounts team. I run the business side.
 
 Leave ZS, Henkel and Fidelity as they are.
 
 ## Step 4. Featured (+ Add section → Recommended → Add featured → Add a link)
 - Link: https://getjournals.ai
 - Title: Journals
-- Description: CA led, AI powered accounting for D2C brands doing ₹10cr+
+- Description: CA led, AI powered accounting for D2C, marketplace and omnichannel brands
 
 Nothing else in Featured for now.
 
 ## Step 5. Banner (camera icon on the banner)
-Upload `linkedin/banner.png` (1584 × 396). Text sits on the right, clear of your photo.
+Upload `linkedin/banner.png` (1584 × 396): logo, "You carry the business. We'll carry the books.", what Journals does, getjournals.ai. Brand colours and fonts from the pricing sheet; text sits on the right, clear of your photo.
 
 ## Step 6. Check
 - [ ] Open your profile on your phone: the headline, Journals logo under it, and banner text all read well.
@@ -97,4 +97,5 @@ Upload `linkedin/banner.png` (1584 × 396). Text sits on the right, clear of you
 - "Real margins": founders talk about margin, not profit. Listen for their own word on calls.
 - The D2C client is one brand, unnamed. If asked on a call, say it's one.
 - No hyphens anywhere, by Ramanan's preference.
+- The headline keeps "D2C brands": "D2C, marketplace and omnichannel" doesn't fit in 220 characters, and "D2C" is the word founders recognise in the first 60.
 - The line about hiring and managing accountants was dropped so a finance head reading the profile doesn't see a threat (D-013).
